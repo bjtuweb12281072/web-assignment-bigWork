@@ -1,0 +1,42 @@
+body{
+margin:0;
+padding:0;
+min-width:1000px;
+}
+h1{
+display:inline;
+color:#0066CC;
+}
+
+h4{
+display:inline;
+color:#333333;
+}
+
+#header{
+float:left;
+width:100%;
+background-color:#66CCFF;
+
+}
+
+#footer{
+float:left;
+width:100%;
+background-color:#CCCCCC;
+font-size:8pt;
+font-weight:bold;
+text-align:center;
+position:relative;
+}
+
+#book{
+	float:left;
+	overflow:hidden;
+	width: 1000px;
+}
+
+#center{
+height:590px;
+color:#CCCCCC;
+}
